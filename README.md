@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a sophomore at Jadavpur University<br>🌱 I’m currently learning ML<br>
+🔭 I’m currently a pre-final year student at Jadavpur University<br>🌱 I’m currently learning ML<br>
 
 
 ## 🌐 Socials:
